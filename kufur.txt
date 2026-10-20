@@ -72,3 +72,4 @@ pust*
 sikter*
 siktirgit*
 sexs
+!dolunay
