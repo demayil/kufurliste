@@ -79,3 +79,4 @@ hayatkadını
 mq*
 !amla*
 !dolu*
+purna
