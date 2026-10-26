@@ -117,3 +117,4 @@ doldu
 !yaramı*
 !dolayıdır
 zenci
+!sıkılın*
