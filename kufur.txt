@@ -118,3 +118,4 @@ doldu
 !dolayıdır
 zenci
 !sıkılın*
+!dolm*
